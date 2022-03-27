@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-react-previewer/static/css/main.e81533e5.chunk.css",
+    "main.js": "/simple-react-previewer/static/js/main.8fdb639d.chunk.js",
+    "main.js.map": "/simple-react-previewer/static/js/main.8fdb639d.chunk.js.map",
+    "runtime-main.js": "/simple-react-previewer/static/js/runtime-main.f4a4591c.js",
+    "runtime-main.js.map": "/simple-react-previewer/static/js/runtime-main.f4a4591c.js.map",
+    "static/js/2.05e71c12.chunk.js": "/simple-react-previewer/static/js/2.05e71c12.chunk.js",
+    "static/js/2.05e71c12.chunk.js.map": "/simple-react-previewer/static/js/2.05e71c12.chunk.js.map",
+    "index.html": "/simple-react-previewer/index.html",
+    "precache-manifest.923c04ed2df91966d9551bbf7a8e510b.js": "/simple-react-previewer/precache-manifest.923c04ed2df91966d9551bbf7a8e510b.js",
+    "service-worker.js": "/simple-react-previewer/service-worker.js",
+    "static/css/main.e81533e5.chunk.css.map": "/simple-react-previewer/static/css/main.e81533e5.chunk.css.map",
+    "static/js/2.05e71c12.chunk.js.LICENSE.txt": "/simple-react-previewer/static/js/2.05e71c12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4a4591c.js",
+    "static/js/2.05e71c12.chunk.js",
+    "static/css/main.e81533e5.chunk.css",
+    "static/js/main.8fdb639d.chunk.js"
+  ]
+}
